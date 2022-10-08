@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ankan Mondal</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
-<img align="right" alt="Coding" width="400" scr="https://vsgif.com/gif/3126091"
+<img align="right" alt="Coding" width="400" scr="https://i.gifer.com/fetch/w300-preview/1a/1a1925b1de116058e74cecebbce92eb6.gif"
 
 - 🤝 I’m looking for help with Web Development. [Movies Now](https://anku601.github.io/Movies-Now/)
 
