@@ -1,32 +1,104 @@
-![logo](https://github.com/anku601/banner/blob/main/name.svg)
-<h1 align="center">Hi 👋, I'm Ankan Mondal</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ankan%20Mondal&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%7C%20PySpark%20%C2%B7%20Databricks%20%C2%B7%20Azure&descAlignY=58&descSize=18" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anku601&label=Profile%20views&color=0e75b6&style=flat" alt="anku601" /> </p>
-
-- 🔭 I’m currently working on Data Science [Health-insurance-cost-prediction](https://github.com/anku601/Health-insurance-cost-prediction)
-
-- 👯 I’m looking to collaborate on [Fraud_Detection](https://github.com/anku601/Fraud_Detection)
-
-- 🤝 I’m looking for help with Web Development. [Movies Now](https://anku601.github.io/Movies-Now/)
-
-- 📫 How to reach me **mondalankan601@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gpFSYSGkgHwnc8XP-aj7MyrVpETCEW9b/view?usp=sharing](https://drive.google.com/file/d/1gpFSYSGkgHwnc8XP-aj7MyrVpETCEW9b/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankan-mondal-1370a2223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankan mondal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankan_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankan_00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mondalankan601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mondalankan601" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+data+pipelines;Telecom+%7C+Subscriber+Analytics;Lakehouse+on+Azure+%2B+Databricks;Turning+raw+data+into+reliable+insights" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anku601&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <a href="https://linkedin.com/in/ankan-mondal-1370a2223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mondalankan601@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/ankan_00"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anku601&show_icons=true&locale=en&layout=compact" alt="anku601" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anku601&show_icons=true&locale=en" alt="anku601" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anku601&" alt="anku601" /></p>
+I'm a **Data Engineer at Infosys** working in the **telecom domain**. I build ETL/ELT pipelines on the **Azure + Databricks lakehouse** for subscriber reporting, with a focus on data quality and performance.
+
+- ⚡ Batch pipelines with **PySpark, Delta Lake & ADF**
+- 🧱 Transformations and modelling with **dbt & SQL**
+- 🔧 CI/CD with **GitLab**
+- 📚 Currently deepening: data modelling, pipeline optimization, system design
+
+---
+
+## 🔄 How I Build Pipelines
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Source_Systems-555?style=for-the-badge" />
+  ➜
+  <img src="https://img.shields.io/badge/ADF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  ➜
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  ➜
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  ➜
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+  ➜
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  ➜
+  <img src="https://img.shields.io/badge/Reports-0e75b6?style=for-the-badge" />
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Health Insurance Cost Prediction](https://github.com/anku601/Health-insurance-cost-prediction) | ML model to predict insurance charges | Python, Scikit-learn, Pandas |
+| [Fraud Detection](https://github.com/anku601/Fraud_Detection) | Fraud transaction detection *(open to collaborate)* | Python, ML |
+| [Movies Now](https://anku601.github.io/Movies-Now/) | Movie browsing web app | HTML, CSS, JS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/anku601?style=for-the-badge&logo=github&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/anku601?style=for-the-badge&logo=github&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anku601&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anku601/anku601/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 **Email:** [mondalankan601@gmail.com](mailto:mondalankan601@gmail.com)
+- 💼 **LinkedIn:** [ankan-mondal](https://linkedin.com/in/ankan-mondal-1370a2223)
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1gpFSYSGkgHwnc8XP-aj7MyrVpETCEW9b/view?usp=sharing)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
