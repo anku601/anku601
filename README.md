@@ -99,6 +99,6 @@ I'm a **Data Engineer at Infosys** working in the **telecom domain**. I build ET
 
 - 📫 **Email:** [mondalankan601@gmail.com](mailto:mondalankan601@gmail.com)
 - 💼 **LinkedIn:** [ankan-mondal](https://linkedin.com/in/ankan-mondal-1370a2223)
-- 📄 **Resume:** [View here](https://drive.google.com/file/d/1gpFSYSGkgHwnc8XP-aj7MyrVpETCEW9b/view?usp=sharing)
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1otFzY8wnW1jqvqDorsYxEAePvihTFPGf/view?usp=sharing)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
